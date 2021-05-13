@@ -5,7 +5,7 @@
     "main": "chewie.js",
     "author": "brandy | qwp | vuodou",
     "scripts": {
-        "start": "npm start"
+        "start": "node chewie.js"
     },
     "dependencies": {
         "discord.js": "^12.5.3",
