@@ -4,6 +4,9 @@
     "description": "My pet bot from space",
     "main": "chewie.js",
     "author": "brandy | qwp | vuodou",
+    "scripts": {
+        "start": "npm start"
+    },
     "dependencies": {
         "discord.js": "^12.5.3",
         "dotenv": "^9.0.2",
