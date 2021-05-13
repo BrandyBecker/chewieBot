@@ -1,0 +1,10 @@
+{
+    "name": "chewie",
+    "version": "1.0.0",
+    "description": "My pet bot from space",
+    "main": "chewie.js",
+    "author": "brandy | qwp | vuodou",
+    "dependencies": {
+        "discord.js": "^12.5.3"
+    }
+}
