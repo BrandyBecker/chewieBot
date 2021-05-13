@@ -6,6 +6,7 @@
     "author": "brandy | qwp | vuodou",
     "dependencies": {
         "discord.js": "^12.5.3",
-        "dotenv": "^9.0.2"
+        "dotenv": "^9.0.2",
+        "express": "^4.17.1"
     }
 }
