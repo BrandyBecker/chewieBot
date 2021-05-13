@@ -1,5 +1,6 @@
 // variables
 const Discord = require('discord.js');
+require('dotenv').config();
 
 // discord bot
 const bot = new Discord.Client();
@@ -10,6 +11,6 @@ bot.once('ready',()=>{
 })
 
 
-
-// gives access to bot
-bot.login('ODQyMjgxODQ5NjA2NjM1NTIw.YJzCGQ.vUITv3S8a389Ym8oRxwxFkn2pGk');
+// gives access to bot, hides token 
+// sneaky sneaky swiper
+bot.login(process.env.BOT_TOKEN);
