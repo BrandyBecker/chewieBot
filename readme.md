@@ -4,6 +4,6 @@
 
 | command | : crud | outcome |
 |---|---|---
-| [ /ping ] | : returns| "pong!"|
-|   |   |   |
+| [ /ping ] | : returns| "pong!" |
+| [ /reactionrole ] | : returns| embed message that assigns roles for my group |
 |   |   |   |
